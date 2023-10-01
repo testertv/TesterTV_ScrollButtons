@@ -24,7 +24,7 @@ Buttons for quick scrolling in different directions (Up, Down, Middle).
 
 
 <p align="center"> 
- <a href="https://github.com/testertv/TesterTV_ScrollButtons/raw/main/Releases/TesterTV_ScrollButtons_2023.09.29.user.js"><img src="https://img.shields.io/badge/Download-ScrollButtons-brightgreen.svg" width="250"></a> 
+ <a href="https://github.com/testertv/TesterTV_ScrollButtons/raw/main/Releases/TesterTV_ScrollButtons_2023.10.01.user.js"><img src="https://img.shields.io/badge/Download-ScrollButtons-brightgreen.svg" width="250"></a> 
  </p><p align="center">
 <p align="center"> 
  <a href="https://www.tampermonkey.net/"><img src="https://img.shields.io/badge/Download-Tampermonkey-blue.svg" width="250"></a>
