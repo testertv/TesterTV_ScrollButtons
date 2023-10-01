@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         TesterTV_ScrollButtons
-// @namespace    https://github.com/testertv/
+// @namespace    https://github.com/testertv/TesterTV_ScrollButtons
 // @version      2023.10.01
 // @description  Buttons for quick scrolling in different directions.
 // @author       TesterTV
